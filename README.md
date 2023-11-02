@@ -2,7 +2,7 @@
 - ✋ I’m 16 years old
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to work in German 
+- 💞️ I’m looking to work
 - 📫 How to reach me by my email: mohamedzakariaa312@gmail.com
   
 <!---
