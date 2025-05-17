@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamed-zakaryia
-- ✋ I’m 17 years old
+- ✋ I’m 18 years old
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to work
 - 📫 How to reach me by my email: mohamedzakariaa312@gmail.com
   
